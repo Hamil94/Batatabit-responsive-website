@@ -2,7 +2,13 @@
 
 # Images
 
-![Alt Text](./fotos/)
+### Movil
+
+![Alt Text](./fotos/movil.png)
+
+### Desktop 
+
+![Alt Text](./fotos/desktop.png)
 
 Batatabit is a responsive website that provides real-time information about cryptocurrencies. The website is designed a Mobile-First approach, ensuring it looks and functions seamlessly on various devices, including smartphones, tablets, and desktops.
 
